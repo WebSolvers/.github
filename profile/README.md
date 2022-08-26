@@ -4,4 +4,4 @@ We solve the web and have fun doing it ( sometimes ) 😀
 
 <br>
 
-![](banner.png)
+![](https://github.com/WebSolvers/.github/blob/main/profile/banner.png)
